@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "fcb3931fb11d8317",
+    "type": "split",
+    "children": [
+      {
+        "id": "7261e62f4a02a462",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cc53e01fc5d33a3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0862a1b5ddb6add3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "operational.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85a850c857ade7fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "construction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77c7669c95dd3e78",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd6860073ff9972b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59be8846029cda09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c39b3b61fe07429",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "337fb8439ffa4869",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91177f655a8b28b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc7dd41c07b56e6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5d9ee04d849b54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "481419d06f1abe7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c325b8b598bdeb2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "288e1dac0bc3b0ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6cc53e01fc5d33a3",
+  "lastOpenFiles": [
+    "operational.md",
+    "construction.md",
+    "inclusivity.md",
+    "localization.md",
+    "maintainability.md",
+    "analysability.md",
+    "flexibility.md",
+    "modularity.md",
+    "security.md",
+    "resistance.md",
+    "authenticity.md",
+    "accountability.md",
+    "non-repudiation.md",
+    "integrity.md",
+    "confidentiality.md",
+    "reliability.md",
+    "robustness.md",
+    "availability.md",
+    "faultlessness.md",
+    "usability.md",
+    "user-assistance.md",
+    "self-descriptivness.md",
+    "user-engagement.md",
+    "user-error-protection.md",
+    "operability.md",
+    "appropriateness-recognizability.md",
+    "Untitled",
+    "Untitled.canvas"
+  ]
+}
