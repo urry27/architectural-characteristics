@@ -12,3 +12,4 @@
 - [[time-behaviour]]
 - [[resource-utilization]]
 - [[capacity]]
+- [[elasticity]]

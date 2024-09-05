@@ -2,13 +2,12 @@
 
 
 - [[reliability]]
-- [[continuity]]
 - [[performance]]
 - [[safety]]
 - [[archiveability]]
 - [[legal]]
-- [[privacy]]
 - [[security]]
 - [[usability]]
 - [[compatibility]]
-- [[authorization]]
+- [[scalability]]
+- [[adaptability]]

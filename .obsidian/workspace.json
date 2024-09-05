@@ -8,36 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cc53e01fc5d33a3",
+            "id": "99a9d734bbb80d1a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "0862a1b5ddb6add3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "operational.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85a850c857ade7fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "construction.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ]
@@ -86,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,34 +138,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cc53e01fc5d33a3",
+  "active": "99a9d734bbb80d1a",
   "lastOpenFiles": [
-    "operational.md",
+    "operation-constraint.md",
     "construction.md",
-    "inclusivity.md",
-    "localization.md",
-    "maintainability.md",
-    "analysability.md",
-    "flexibility.md",
-    "modularity.md",
-    "security.md",
-    "resistance.md",
-    "authenticity.md",
-    "accountability.md",
-    "non-repudiation.md",
-    "integrity.md",
+    "evolvability.md",
+    "configurability.md",
+    "elasticity.md",
     "confidentiality.md",
     "reliability.md",
+    "adaptability.md",
+    "maintainability.md",
+    "inclusivity.md",
+    "reusability.md",
+    "flexibility.md",
+    "modifiability.md",
+    "replaceability.md",
+    "extensibility.md",
+    "portability.md",
+    "supportability.md",
+    "operational.md",
+    "authorization.md",
+    "privacy.md",
+    "legal.md",
+    "security.md",
     "robustness.md",
     "availability.md",
-    "faultlessness.md",
-    "usability.md",
-    "user-assistance.md",
-    "self-descriptivness.md",
-    "user-engagement.md",
-    "user-error-protection.md",
-    "operability.md",
-    "appropriateness-recognizability.md",
+    "safety.md",
+    "recoverability.md",
     "Untitled",
     "Untitled.canvas"
   ]
